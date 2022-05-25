@@ -9,7 +9,7 @@
 
 	<properties>
 		<esper-version>4.7.0</esper-version>
-		<spring-version>3.1.1.RELEASE</spring-version>
+		<spring-version>5.2.22.RELEASE</spring-version>
 	</properties>
 
 	<parent>
